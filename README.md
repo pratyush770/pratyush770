@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about **Generative AI, Machine Lear
    - **Description**: A multi-functional AI chatbot with translation, code assistance, and exam tutoring.
      
    - **Tech Stack**: Python, Streamlit, LangChain, Langsmith, Groq Cloud (Mistral AI Model).
-   - **Website**: https://your-ai-assistant.streamlit.app
+   - **Website**: https://ai-assistant-python.streamlit.app
    
 2) ### 🏦  Bank Loan Eligibility Predictor:
    - **Description**: A machine learning model that predicts loan eligibility based on financial data.
