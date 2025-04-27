@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about **Generative AI, Machine Lear
 - **Databases**: MySQL, Azure Data Lake.
 - **Cloud & Data Tools**: Azure Data Factory, Azure Databricks, Microsoft Power BI,  Apache Spark, Pandas, NumPy.
 ## 📌 Projects
-1) ### 🏡 TaxQuery AI:
+1) ### 🏡 TaxQueryAI:
    - **Description**: A Gen AI-powered property tax Q&A tool designed to help users query and analyze property tax data from seven cities in India. It features a MySQL database backend, an AI chatbot for answering queries, and a data analytics dashboard for insights and future predictions.
      
    - **Tech Stack**: Python, Streamlit, Flask, Next.js, MySQL, LangChain, Azure Data Factory, Azure Databricks.
