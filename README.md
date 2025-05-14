@@ -29,5 +29,6 @@ Welcome to my GitHub profile! I'm passionate about **Generative AI, Machine Lear
   
 - **Linkedin**: https://www.linkedin.com/in/pratyush-majumdar
 - **Email**: pratyushmajumdar27@gmail.com
+- **Portfolio**: https://pratyush770.github.io/portfolio/
   
 Let's collaborate and build something amazing! 🚀
